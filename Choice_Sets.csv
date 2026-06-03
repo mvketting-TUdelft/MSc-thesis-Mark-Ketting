@@ -1,0 +1,9 @@
+﻿set;A_cost;A_payback;A_selfconsumption;A_backup;B_cost;B_payback;B_selfconsumption;B_backup
+1;1000;10;60%;Full house;5000;5;90%;Full house
+2;3000;5;60%;One socket;1000;15;90%;Full house
+3;7000;15;60%;One socket;7000;10;30%;Full house
+4;1000;5;30%;One socket;3000;10;90%;One socket
+5;5000;10;60%;One socket;7000;10;90%;One socket
+6;7000;5;60%;Full house;3000;15;60%;Full house
+7;1000;10;60%;One socket;5000;15;30%;Full house
+8;5000;10;60%;Full house;3000;10;30%;Full house
